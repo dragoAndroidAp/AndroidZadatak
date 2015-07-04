@@ -1,0 +1,134 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel Jadran",
+      "rating": "4",
+      "address": "Vlaška ul. 50, 10000, Zagreb",
+      "description": "Smješten u samom srcu Zagreba, u blizini zagrebačke katedrale,središnjeg gradskog trga, između Gornjeg i Donjeg grada te svih ostalih znamenitosti centra Zagreba, hotel Jadran omogućiti će Vam lak pristup svim atrakcijama te ugodan boravak u svojim, nedavno u potpunosti, obnovljenim prostorima.",
+      "image": [
+        "slike_hotel_jadran1.jpg",
+        "slike_hotel_jadran2.jpg",
+        "slike_hotel_jadran3.jpg",
+        "slike_hotel_jadran4.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Palace hotel Zagreb",
+      "rating": "4",
+      "address": "Trg Josipa Jurja Strossmayera 10, 10000, Zagreb",
+      "description": "Smješten u palači u samom srcu Zagreba,retro-chic Palace Hotel Zagreb nudi vam spoj modernog smještaja i tradicije zagrebačkog hotelijerstva. Dobro došli!",
+      "image": [
+        "hotel_palace1.jpg",
+        "hotel_palace2.jpg",
+        "hotel_palace3.jpg",
+        "hotel_palace4.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Panorama Zagreb Hotel",
+      "rating": "4",
+      "address": "Trg Krešimira Ćosića 9, 10000, Zagreb",
+      "description": "Udobnost i pouzdanost - duga tradicija gostoprimstva i kvalitetne usluge.Bez obzira dolazite li u Zagreb poslom ili se želite odmoriti, dolazite li zaključiti posao ili razgledati zagrebačke atrakcije, Panorama Zagreb Hotel Vam stoji na raspolaganju udobnim i funkcionalno opremljenim sobama, restoranom Šestine s izvrsnom domaćom kuhinjom, višenamjenskim dvoranama za sve vrste događanja te iskusnim i profesionalnim osobljem.",
+      "image": [
+        "hotel_panorama1.jpg",
+        "hotel_panorama2.jpg",
+        "hotel_panorama3.jpg",
+        "hotel_panorama4.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Hotel Westin",
+      "rating": "4",
+      "address": "Ul. Izidora Kršnjavog 1, 10000, Zagreb",
+      "description": "The Westin Zagreb je vrhunski hotel smješten u samom središtu Zagreba. Okružen najvažnijim kulturnim sadržajima u neposrednoj je blizini glavnog gradskog trga, poslovnog središta grada, restorana, popularnih klubova i barova, slikovitih tržnica, te raznovrsnih trgovina s bogatim izborom ekskluzivnih proizvoda.",
+      "image": [
+        "hotel_westin1.jpg",
+        "hotel_westin2.jpg",
+        "hotel_westin3.jpg",
+        "hotel_westin4.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Hotel Croatia",
+      "rating": "4",
+      "address": "Vinogradska cesta 20, 10000, Zagreb",
+      "description": "Zadovoljstvo nam je zaželjeti Vam dobrodošlicu u Hotel Croatia! Bilo da putujete u Zagreb poslovno ili rekreativno pravi je odabir mjesta za odmor u centru grada Zagreba!.Naše profesionalno i prijateljski raspoloženo osoblje zaduženo je da Vaš boravak u Hotelu Croatia bude udoban i ugodan.",
+      "image": [
+        "hotel_croatia1.jpg",
+        "hotel_croatia2.jpg",
+        "hotel_croatia3.jpg",
+        "hotel_croatia4.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Hotel International Zagreb",
+      "rating": "4",
+      "address": "Miramarska cesta 24, 10000, Zagreb",
+      "description": "Hotel International u Zagrebu, smješten u samom centru poslovne zone grada, vrhunski je izbor za smještaj poslovnih gostiju kao i onih koji turistički posjećuju Zagreb.Osim hotelskog smještaja, hotel International u Zagrebu nudi svojim gostima opuštanje u lounge baru ili upoznavanje mediteranskih i kontinentalnih specijaliteta Hrvatske u restoranu hotela.",
+      "image": [
+        "hotel_international1.jpg",
+        "hotel_international2.jpg",
+        "hotel_international3.jpg",
+        "hotel_international4.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Hotel Central",
+      "rating": "4",
+      "address": "Ul. kneza Branimira 3, 10000, Zagreb",
+      "description": "HOTEL CENTRAL*** smješten je u samome središtu grada Zagreba, nasuprot glavnomu željezničkom kolodvoru i u blizini autobusnoga kolodvora te terminala za Zračnu luku Zagreb.Nedaleko od hotela, na samo 10 minuta hoda, šećući jednim od najljepših zagrebačkih parkova,parkom Zrinjevac, naći ćete se na glavnome gradskom trgu i u povijesnoj jezgri grada. Nadohvat su popularni kafići, poznati muzeji, galerije, trgovine, tržnica Dolac i znamenitosti srednjovjekovnog grada.",
+      "image": [
+        "hotel_central1.jpg",
+        "hotel_central2.jpg",
+        "hotel_central3.jpg",
+        "hotel_central4.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Hotel Aristos Zagreb",
+      "rating": "4",
+      "address": "Cebini ul. 33, 10000, Zagreb",
+      "description": "Hoteli u Zagrebu – vaš pravi izbor je Hotel Aristos 4* koji pruža miran i ugodan smještaj te je udaljen svega nekoliko minuta vožnje od zračne luke Zagreb, centra grada, jezera Bundek uz besplatan parking i garažu hotela.",
+      "image": [
+        "hotel_aristos1.jpg",
+        "hotel_aristos2.jpg",
+        "hotel_aristos3.jpg",
+        "hotel_aristos4.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Hotel Sheraton Zagreb",
+      "rating": "4",
+      "address": "Ul. kneza Borne 2, 10000, Zagreb",
+      "description": "Located in the city centre, Sheraton Zagreb Hotel is just a stroll away from the main attractions where Zagreb’s history and tradition can be witnessed in museums and galleries, architecture, numerous theatres, lively cafés, and bars. Offering easy access to the city’s main points of interest and close to public transport, we are the hotel of choice for business and leisure travellers.",
+      "image": [
+        "hotel_sheraton1.jpg",
+        "hotel_sheraton2.jpg",
+        "hotel_sheraton3.jpg",
+        "hotel_sheraton4.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Hotel Zagreb",
+      "rating": "4",
+      "address": "Damira Tomljanovica Gavrana bb, 10000, Zagreb",
+      "description": "Hotel Zagreb je garni hotel koji posluje po principu bed and breakfast. Smješten na istočnom kraju Zagrebačkog velesajma, udaljen 15 minuta vožnje od zračne luke, te 10 minuta od središta grada, svoje će goste ugodno iznenaditi s još jednom atrakcijom smještenom u neposrednoj blizini hotela - preuređenim parkom Bundek s jezerima, šetnicom i ljetnom pozornicom.",
+      "image": [
+        "hotel_zagreb1.jpg",
+        "hotel_zagreb2.jpg",
+        "hotel_zagreb3.jpg",
+        "hotel_zagreb4.jpg"
+      ]
+    }
+  ]
+}

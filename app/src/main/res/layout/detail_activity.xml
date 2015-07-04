@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.horvat.dragutin.androidzadatak.activities.DetailActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linear_rating"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/main_image"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY" />
+
+        <RatingBar
+            android:id="@+id/rating_bar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="-10dp"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:max="5"
+            android:numStars="5"
+            android:progressDrawable="@drawable/rating_bar_red"
+            android:scaleX="0.8"
+            android:scaleY="0.8"
+            android:stepSize="1" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear_rating"
+        android:layout_marginLeft="@dimen/left_linearLayout_margin"
+        android:layout_marginRight="@dimen/right_linearLayout_margin"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/detail_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/textView_bottom_margin"
+            android:layout_weight="1"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/detail_adress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/textView_bottom_margin"
+            android:layout_weight="1" />
+
+
+        <TextView
+            android:id="@+id/detail_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/textView_bottom_margin"
+            android:layout_weight="1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textSize="@dimen/description_text_size" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:id="@+id/linear_small_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear_text"
+        android:layout_marginLeft="@dimen/left_linearLayout_margin"
+        android:layout_marginRight="@dimen/right_linearLayout_margin"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/image_num_one"
+            android:layout_width="@dimen/small_image_width"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/imageView_bottom_margin"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:clickable="true" />
+
+        <ImageView
+            android:id="@+id/image_num_two"
+            android:layout_width="@dimen/small_image_width"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/imageView_bottom_margin"
+            android:layout_marginLeft="@dimen/imageView_left_margin"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:clickable="true" />
+
+        <ImageView
+
+            android:id="@+id/image_num_three"
+            android:layout_width="@dimen/small_image_width"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/imageView_bottom_margin"
+            android:layout_marginLeft="@dimen/imageView_left_margin"
+            android:layout_marginRight="@dimen/imageView_right_margin"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:clickable="true" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
